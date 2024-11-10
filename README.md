@@ -4,29 +4,34 @@
 
 ## 🚀 Мой стек технологий
 
-### 💻 Разработка:
-- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) **HTML5**
-- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) **CSS3**
-- ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white) **SCSS**
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) **JavaScript**
-- ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) **TypeScript**
-- ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) **React**
-- ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black) **Webpack**
+### 💻 Разработка
+<table>
+  <tr>
+    <td align="center"><img src="https://cdn.simpleicons.org/html5/E34F26" width="30"/><br>HTML5</td>
+    <td align="center"><img src="https://cdn.simpleicons.org/css3/1572B6" width="30"/><br>CSS3</td>
+    <td align="center"><img src="https://cdn.simpleicons.org/sass/CC6699" width="30"/><br>SCSS</td>
+    <td align="center"><img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="30"/><br>JavaScript</td>
+    <td align="center"><img src="https://cdn.simpleicons.org/typescript/3178C6" width="30"/><br>TypeScript</td>
+    <td align="center"><img src="https://cdn.simpleicons.org/react/61DAFB" width="30"/><br>React</td>
+    <td align="center"><img src="https://cdn.simpleicons.org/webpack/8DD6F9" width="30"/><br>Webpack</td>
+  </tr>
+</table>
 
-### ⚙️ Инструменты:
-- ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) **Git**
-- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) **GitHub**
-- ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) **VS Code**
+### ⚙️ Инструменты
+<table>
+  <tr>
+    <td align="center"><img src="https://cdn.simpleicons.org/git/F05032" width="30"/><br>Git</td>
+    <td align="center"><img src="https://cdn.simpleicons.org/github/181717" width="30"/><br>GitHub</td>
+    <td align="center"><img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="30"/><br>VS Code</td>
+    <td align="center"><img src="https://cdn.simpleicons.org/npm/CB3837" width="30"/><br>NPM</td>
+    <td align="center"><img src="https://cdn.simpleicons.org/jest/C21325" width="30"/><br>Jest</td>
+    <td align="center"><img src="https://cdn.simpleicons.org/nodedotjs/339933" width="30"/><br>Node.js</td>
+  </tr>
+</table>
 
-### 📱 Дополнительные технологии:
-- ![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat&logo=npm&logoColor=white) **NPM**
-- ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white) **Jest**
-- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) **Node.js**
-
-
-## 📬 Со мной можно связаться:
-- 📧 [Напишите мне на почту](mailto:shalyakina.dk@gmail.com)
-- 👀 [Мой Telegram]([@daria_shalyakina](https://t.me/daria_shalyakina))
+## 📬 Связь со мной
+- 📧 [Почта](mailto:shalyakina.dk@gmail.com)
+- ✈️ [Telegram](https://t.me/daria_shalyakina)
 
 ---
 
