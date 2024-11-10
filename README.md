@@ -24,8 +24,6 @@
     <td align="center"><img src="https://cdn.simpleicons.org/github/181717" width="30"/><br>GitHub</td>
     <td align="center"><img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="30"/><br>VS Code</td>
     <td align="center"><img src="https://cdn.simpleicons.org/npm/CB3837" width="30"/><br>NPM</td>
-    <td align="center"><img src="https://cdn.simpleicons.org/jest/C21325" width="30"/><br>Jest</td>
-    <td align="center"><img src="https://cdn.simpleicons.org/nodedotjs/339933" width="30"/><br>Node.js</td>
   </tr>
 </table>
 
