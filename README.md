@@ -5,27 +5,23 @@
 ## 🚀 Мой стек технологий
 
 ### 💻 Разработка
-<table>
-  <tr>
-    <td align="center"><img src="https://cdn.simpleicons.org/html5/E34F26" width="30"/><br>HTML5</td>
-    <td align="center"><img src="https://cdn.simpleicons.org/css3/1572B6" width="30"/><br>CSS3</td>
-    <td align="center"><img src="https://cdn.simpleicons.org/sass/CC6699" width="30"/><br>SCSS</td>
-    <td align="center"><img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="30"/><br>JavaScript</td>
-    <td align="center"><img src="https://cdn.simpleicons.org/typescript/3178C6" width="30"/><br>TypeScript</td>
-    <td align="center"><img src="https://cdn.simpleicons.org/react/61DAFB" width="30"/><br>React</td>
-    <td align="center"><img src="https://cdn.simpleicons.org/webpack/8DD6F9" width="30"/><br>Webpack</td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://cdn.simpleicons.org/html5/E34F26" width="40" alt="HTML5" title="HTML5"/>
+  <img src="https://cdn.simpleicons.org/css3/1572B6" width="40" alt="CSS3" title="CSS3"/>
+  <img src="https://cdn.simpleicons.org/sass/CC6699" width="40" alt="SCSS" title="SCSS"/>
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="40" alt="JavaScript" title="JavaScript"/>
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" width="40" alt="TypeScript" title="TypeScript"/>
+  <img src="https://cdn.simpleicons.org/react/61DAFB" width="40" alt="React" title="React"/>
+  <img src="https://cdn.simpleicons.org/webpack/8DD6F9" width="40" alt="Webpack" title="Webpack"/>
+</p>
 
 ### ⚙️ Инструменты
-<table>
-  <tr>
-    <td align="center"><img src="https://cdn.simpleicons.org/git/F05032" width="30"/><br>Git</td>
-    <td align="center"><img src="https://cdn.simpleicons.org/github/181717" width="30"/><br>GitHub</td>
-    <td align="center"><img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="30"/><br>VS Code</td>
-    <td align="center"><img src="https://cdn.simpleicons.org/npm/CB3837" width="30"/><br>NPM</td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://cdn.simpleicons.org/git/F05032" width="40" alt="Git" title="Git"/>
+  <img src="https://cdn.simpleicons.org/github/181717" width="40" alt="GitHub" title="GitHub"/>
+  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="40" alt="VS Code" title="VS Code"/>
+  <img src="https://cdn.simpleicons.org/npm/CB3837" width="40" alt="NPM" title="NPM"/>
+</p>
 
 ## 📬 Связь со мной
 - 📧 [Почта](mailto:shalyakina.dk@gmail.com)
