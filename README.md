@@ -19,7 +19,7 @@
 <p align="center">
   <img src="https://cdn.simpleicons.org/git/F05032" width="40" alt="Git" title="Git"/>
   <img src="https://cdn.simpleicons.org/github/181717" width="40" alt="GitHub" title="GitHub"/>
-  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="40" alt="VS Code" title="VS Code"/>
+  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" width="40" alt="VS Code" title="VS Code"/>
   <img src="https://cdn.simpleicons.org/npm/CB3837" width="40" alt="NPM" title="NPM"/>
 </p>
 
